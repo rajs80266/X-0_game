@@ -1,0 +1,23 @@
+#tl,#tc,#tr,#bl,#bc,#br,#cl,#c,#cr,#tlc,#tcc,#trc,#blc,#bcc,#brc,#clc,#cc,#crc,#tlx,#tcx,#trx,#blx,#bcx,#brx,#clx,#cx,#crx,#tln,#tcn,#trn,#cln,#cn,#crn,#bln,#bcn,#brn
+{
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+	border : 0px solid green;
+	width : 30%;
+}
+#tlc,#tcc,#trc,#blc,#bcc,#brc,#clc,#cc,#crc,#tlx,#tcx,#trx,#blx,#bcx,#brx,#clx,#cx,#crx,#win,#lose,#tln,#tcn,#trn,#cln,#cn,#crn,#bln,#bcn,#brn,#tie
+{
+	display: none;
+}
+div
+{
+	margin : auto;
+	align : center;
+	width : 40%;
+}
+
+#win,#lose,#tie
+{
+	margin : auto;
+	width : 100%;
+}
